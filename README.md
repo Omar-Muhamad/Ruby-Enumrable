@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
-# project name here
+# Enumerations
 
-> Project description here.
+> Use a module MyEnumerable inside a class MyList. MyEnumerable implements a subset of the functionality of Enumerable.
 
 ## Built With
 
